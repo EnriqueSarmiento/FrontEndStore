@@ -1,0 +1,3 @@
+Ejercicio de una tienda virtual, FrontEndStore. 
+
+ESTE PROYECTO ES UNA ESPECIE DE TEMPLATE DE TIENDA VIRUTAL CON SOLO HTML Y CCS!
